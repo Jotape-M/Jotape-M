@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Jotape GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotape-M&layout=compact&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotape-M&theme=dark)](https://github.com/Jotape-M/github-readme-stats)
+![Jotape GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotape-M&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotape-M&theme=dark&layout=compact)](https://github.com/Jotape-M/github-readme-stats)
 
 
 <!--
