@@ -1,7 +1,9 @@
 ## Olá, eu sou o João Pedro! 👋
 
-[![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotape-M&show_icons=true&hide=contribs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotape-M&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jotape-M&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotape-M&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 🛠 Habilidades
 
